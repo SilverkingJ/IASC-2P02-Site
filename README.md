@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## IASC 2P02: Jason Ansu-Kumi
 
-You can use the [editor on GitHub](https://github.com/SilverkingJ/IASC-2P02-Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a Read Me File for IASC 2P02 web portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+Hi im Jason Ansu-Kumi and i am a third year IASC student. My iterest lie in website and video game creation, However i'm also interested in philosphy of technology and its innovation. I believe the next generation of innovators and scholars will be able to create some exceptional work due to the oppritunities and technology now availble. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SilverkingJ/IASC-2P02-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Blog Post
+The readings in digital humanites are often long winded and difficult to comprehend. Drucker and Morretti unveil a new, smart way to address this issue and my article explains the brilliance and effects of the idea. 
