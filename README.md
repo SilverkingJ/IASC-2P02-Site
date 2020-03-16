@@ -9,4 +9,4 @@ Hi im Jason Ansu-Kumi and i am a third year IASC student. My iterest lie in webs
 The readings in digital humanites are often long winded and difficult to comprehend. Drucker and Morretti unveil a new, smart way to address this issue and my article explains the brilliance and effects of the idea. [continue reading](blog)
 
 
-![](imagez/manatees.jpg)
+![](![](images/technology.jpg).jpg)
