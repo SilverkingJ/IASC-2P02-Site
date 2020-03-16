@@ -18,7 +18,7 @@ multiple modes will distinguish digital humanities scholarship from scholarship 
 
 An Evolution of Comprehension 
 
-	Digital Humanities is a recent trailblazing field that uses technology to understand and
+   Digital Humanities is a recent trailblazing field that uses technology to understand and
 	
 document cultural shifts through trends and patterns. Figures such as Moretti and Drucker, 
 
@@ -38,7 +38,7 @@ these long readings of text, there is a risk that many students are not comprehe
 
 or worse, they are slowly losing interest. 
 
-	An increase in multimodal scholarship and visual representation in the humanities isn’t 
+   An increase in multimodal scholarship and visual representation in the humanities isn’t 
 
 only sorely needed but, is also an inevitability. The evolution of the digital humanities is heading 
 
@@ -76,7 +76,7 @@ because the world continues to evolve and in order to adapt to this evolution mo
 
 scholarships will be needed as well. 
 
-	Articles in the digital humanities are trending towards visual representation because of its 
+   Articles in the digital humanities are trending towards visual representation because of its 
 
 practicality and efficiency regarding delivery of accurate and easily digestible information. For 
 
@@ -108,7 +108,7 @@ potential bias of the author and allowing the audience to think for themselves.
 
 ![](Images/Capture.JPG)
 
-	Digital humanities is in desperate need of Multimodal scholarships to have simplify 
+   Digital humanities is in desperate need of Multimodal scholarships to have simplify 
 
 complicated studies to students. Although graphs and charts help make the articles more 
 
@@ -146,7 +146,7 @@ article without deciphering 27 pages of text. More text analysis tools like Voya
 
 created in order to help the next generation of digital humanities scholars to succeed.
 
-	Digital humanities scholars Moretti and Drucker are avid supporters of expanding visual 
+   Digital humanities scholars Moretti and Drucker are avid supporters of expanding visual 
 
 representation in articles and introducing Multimodal tools to help expand the field. To 
 
@@ -161,6 +161,8 @@ References
 
 Moretti, Franco. “Franco Moretti, Graphs, Maps, Trees - 1, NLR 24, November–December 2003.” New Left Review, 
 
-“Changes in Lyrical and Hit Diversity of Popular U.S. Songs 1956-2016.” DHQ: Digital Humanities Quarterly: Changes in Lyrical and Hit Diversity of Popular U.S. Songs 1956-2016, digitalhumanities.org/dhq/vol/13/4/000440/000440.html#figure01.
+“Changes in Lyrical and Hit Diversity of Popular U.S. Songs 1956-2016.” DHQ: Digital Humanities Quarterly: Changes in Lyrical and Hit 
+
+Diversity of Popular U.S. Songs 1956-2016, digitalhumanities.org/dhq/vol/13/4/000440/000440.html#figure01.
 
 
