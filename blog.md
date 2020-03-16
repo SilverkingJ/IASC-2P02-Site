@@ -1,4 +1,5 @@
 IASC Blog Post 
+
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be 
 used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, 
 etc.). Moving between written and visual mediums of expression offers a model for the next 
@@ -9,6 +10,7 @@ graphs, images, audio, and so on). Creating scholarship that asks readers to int
 multiple modes will distinguish digital humanities scholarship from scholarship in the sciences.
 
 An Evolution of Comprehension 
+
 Digital Humanities is a recent trailblazing field that uses technology to understand and 
 document cultural shifts through trends and patterns. Figures such as Moretti and Drucker, 
 digital humanity scholars, suggest that visual forms such as graphs and maps should be used to 
